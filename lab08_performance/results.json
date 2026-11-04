@@ -1,0 +1,38 @@
+[
+  {
+    "throughput_mbps": 9.997253364708216,
+    "jitter_ms": 0.6483164644255475,
+    "loss_percent": 0,
+    "distance_m": 5
+  },
+  {
+    "throughput_mbps": 9.996430200622724,
+    "jitter_ms": 0.4944690490017734,
+    "loss_percent": 0,
+    "distance_m": 10
+  },
+  {
+    "throughput_mbps": 10.00058753901345,
+    "jitter_ms": 0.6634525557699428,
+    "loss_percent": 0,
+    "distance_m": 15
+  },
+  {
+    "throughput_mbps": 9.997943080975139,
+    "jitter_ms": 0.6367955137701927,
+    "loss_percent": 0,
+    "distance_m": 20
+  },
+  {
+    "throughput_mbps": 10.001063540229039,
+    "jitter_ms": 0.721541556270714,
+    "loss_percent": 0,
+    "distance_m": 25
+  },
+  {
+    "throughput_mbps": 9.99737330852747,
+    "jitter_ms": 0.8079980941750174,
+    "loss_percent": 0,
+    "distance_m": 30
+  }
+]
